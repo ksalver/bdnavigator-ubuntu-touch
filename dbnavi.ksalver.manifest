@@ -1,0 +1,16 @@
+{
+    "architecture": "all",
+    "description": "A interface to the DB Navigator app built using a QML WebView wrapper around mobile websites",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "dbnavi": {
+            "apparmor": "dbnavi.apparmor",
+            "desktop": "dbnavi.desktop"
+        }
+    },
+    "installed-size": "39",
+    "maintainer": "Karlheinz S. <k.salver@sqlplus.org>",
+    "name": "dbnavi.ksalver",
+    "title": "DB Navigator",
+    "version": "1.2"
+}

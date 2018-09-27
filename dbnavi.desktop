@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DB Navigator
+Comment=A interface to the DB Navigator app built using a QML WebView wrapper around mobile websites
+Type=Application
+Icon=dbnavi.png
+Exec=qmlscene $@ qml/Main.qml
+Terminal=false
+X-Ubuntu-Touch=true
+
+Name[en_US]=dbnavi.desktop
