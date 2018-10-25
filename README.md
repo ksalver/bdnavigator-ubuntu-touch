@@ -1,6 +1,6 @@
 # DBnavigator-ubuntu-touch
 
-# project is moved to gitlab
+# !! this Project is moved to gitlab
 
 DBnavigator
 this is an easy app for ubuntu touch to see dbnavigator from Deutsche Bahn ,
@@ -11,3 +11,4 @@ dies ist eine einfache app, welche die original Website ( bahn.de ) liest
 und die wichtigsten funktionen darstellt.
 Sie startet mit der Fahrplanauskunft von - nach
 
+https://gitlab.com/ksalver/bdnavigator-ubuntu-touch
